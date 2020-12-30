@@ -1,6 +1,6 @@
 # PruebaSistemaBoletos
 
-Hola
+Hola, buen día
 
 Este proyecto esta compuesto por dos carpetas y la base de datos sql.
 

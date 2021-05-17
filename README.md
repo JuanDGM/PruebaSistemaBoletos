@@ -1,7 +1,5 @@
 # PruebaSistemaBoletos
 
-Hola, buen día
-
 DESCRIPCIÓN DEL PROYECTO:
 Aplicación para la reserva de boletos - (tematica un concierto).
 
@@ -36,13 +34,6 @@ De acuerdo a las variables de entorno del API, el nombre de la base de datos es:
 IMPORTANTE:
 En la tabla cantidadboletas de la base de datos, debe contener la cantidad de boletas para el escenario abierto, por tanto se requiere
 ingresar el valor directamente en la base de datos o desde "php artisan db:seed".
-
-
-Muchas Gracias
-
-Cordialmente
-
-JUAN DAVID GARCÍA
 
 
 
